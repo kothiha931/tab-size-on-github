@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/sindresorhus/tab-size-on-github) 
+
 # Tab Size on GitHub
 
 > Chrome extension - Make tab indented code more readable by forcing the tab size to 4 instead of 8
